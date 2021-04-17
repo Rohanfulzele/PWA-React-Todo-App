@@ -1,5 +1,8 @@
 # React Todo app
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a minimal react todo app. This sample app was a inspired from BrainCodex.
+
+Check the demo hosted on Netlify :
+https://trusting-pare-a343b4.netlify.app/
 
 ## Available Scripts
 
@@ -12,3 +15,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
