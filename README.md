@@ -20,3 +20,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+<a href="https://www.buymeacoffee.com/rohanfulzele" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
