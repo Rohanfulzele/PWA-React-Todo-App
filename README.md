@@ -1,6 +1,9 @@
 # React Todo app
 This is a minimal react todo app. This sample app was a inspired from BrainCodex.
 
+![alt text](https://github.com/Rohanfulzele/React-Todo-App/blob/React-Todo-App/todoApp2.PNG)
+
+
 Check the demo hosted on Netlify :
 https://trusting-pare-a343b4.netlify.app/
 
