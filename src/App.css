@@ -14,16 +14,25 @@ body {
   );
 }
 .todo-app {
-  display: flex;
-  flex-direction: column;
-  justify-content: start;
-  width: 520px;
-  min-height: 600px;
-  background: #161a2b;
-  text-align: center;
-  margin: 128px auto;
-  border-radius: 10px;
-  padding-bottom: 32px;
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 520px;
+    max-height: 600px;
+    background: #161a2b;
+    text-align: center;
+    margin: 23px auto;
+    border-radius: 10px;
+    padding-bottom: 32px;
+    padding-left: 1;
+    width: 100%;
+}
+
+.inner-rows{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
 }
 
 h1 {
