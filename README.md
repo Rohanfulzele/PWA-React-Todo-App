@@ -5,7 +5,7 @@ This is a minimal react todo app. This sample app was a inspired from BrainCodex
 
 
 Check the demo hosted on Netlify :
-https://trusting-pare-a343b4.netlify.app/
+https://pwa-todoapp-react.netlify.app/
 
 ## Available Scripts
 
